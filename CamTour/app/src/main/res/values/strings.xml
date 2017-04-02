@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">CamTour</string>
+
+    <string name="kings_chapel_name">King\'s College Chapel</string>
+    <string name="fizwilliam_name">Fizwilliam Museum</string>
+    <string name="bridge_of_sighs_name">Bridge of Sighs</string>
+    <string name="mathematical_bridge_name">Mathematical Bridge</string>
+    <string name="orchard_garden_name">Orchad Gardern</string>
+    <string name="kings_chapel_description">“King\'s College Chapel is a splendid example of late Gothic (Perpendicular) architecture. It was started in 1446 by Henry VI (1421-71) and took over a century to build. It has the largest fan vault in the world and some of the finest medieval stained glass. It is also the venue for the Christmas Eve service, A Festival of Nine Lessons and Carols, which is broadcast to millions around the world.”</string>
+    <string name="fizwilliam_museum_description">“The Fitzwilliam Museum was described by the Standing Commission on Museums &amp; Galleries in 1968 as \'one of the greatest art collections of the nation and a monument of the first importance\'. It owes its foundation to Richard, VII Viscount Fitzwilliam of Merrion who, in 1816, bequeathed to the University of Cambridge his works of art and library, together with funds to house them, to further \'the Increase of Learning and other great Objects of that Noble Foundation\' ”.</string>
+    <string name="bridge_of_sighs_description">“The Bridge of Sighs came into being because the building of New Court made necessary a second crossing of the river between it and Third Court, and New Court\'s architect seized the opportunity for some more charming and allusive romanticism. It must be noted, however, that the only real similarity between the Bridge of Sighs and its Venetian namesake is that both of them are covered bridges.”</string>
+    <string name="mathematical_bridge_description">“The bridge was designed in 1748 by William Etheridge (1709–76), and was built in 1749 by James Essex the Younger (1722–84). It has subsequently been repaired in 1866 and rebuilt to the same design in 1905.”</string>
+    <string name="orchard_garden_description">“The Orchard is a tea garden in Grantchester, near Cambridge, serving morning coffee, lunches and afternoon teas. Since opening in 1897, it has been a popular retreat for Cambridge students, teachers and tourists, as well as locals, with many famous names among its patrons.”</string>
+
+    <string name="kings_chapel_address">Address: King\'s Parade, Cambridge, Cambridgeshire, CB2 1ST</string>
+    <string name="fizwilliam_museum_address">Address: Trumpington Street, Cambridge, Cambridgeshire, CB2 1RB</string>
+    <string name="bridge_of_sighs_address">Address: St. John\'s College, St. John\'s Street, Cambridge, Cambridgeshire, CB2 1TP</string>
+    <string name="mathematical_bridge_address">Address: Silver Street, Cambridge, Cambridgeshire, CB3 9ET</string>
+    <string name="orchard_garden_address">Address: The Orchard, Mill Lane, Grantchester, Cambridgeshire, CB3 9ND</string>
+
+    <string name="the_eagle_name">The Eagle</string>
+    <string name="the_eagle_category">Pub</string>
+    <string name="midsummer_house_name">Midsummer House</string>
+    <string name="midsummer_house_category">Restaurant</string>
+    <string name="michaelhouse_cafe_name">Michaelhouse Café</string>
+    <string name="michaelhouse_cafe_category">Cafe</string>
+    <string name="rainbow_name">The Rainbow Café</string>
+    <string name="rainbow_category">Cafe</string>
+    <string name="fitsbillies_name">Fitzbillies</string>
+    <string name="fitsbillies_category">Cafe</string>
+    <string name="sticky_beaks_name">Sticky Beaks</string>
+    <string name="sticky_beaks_category">Cafe</string>
+    <string name="don_pasquale_name">Don Pasquale</string>
+    <string name="don_pasquale_category">Restaurant</string>
+    <string name="seven_days_name">Seven Days</string>
+    <string name="seven_days_category">Restaurant</string>
+    <string name="the_eagle_description">The Eagle is a traditional English pub dating back to the 16th century. Watson and Crick announced they had discovered \'the secret of life\' here.</string>
+    <string name="midsummer_house_description">Located in a townhouse on the bank of the River Cam, the restaurantEvent is one of eleven restaurants in the UK and Ireland to hold two Michelin stars.</string>
+    <string name="michaelhouse_cafe_description">100-seater Michaelhouse Cafe is set in the stunningly re-ordered St Michael\'s church in the very centre of Cambridge.</string>
+    <string name="rainbow_cafe_description">Unique in Cambridge for serving only vegetarian food and specialising in vegan and gluten free food, The Rainbow Cafe has established itself as one of the city’s best-loved alternative restaurants.</string>
+    <string name="fitzbillies_description">This bakery-cafe is famous for its giant, sticky Chelsea buns. And rightly so: syrupy, swirls of dried fruit, cinnamon and sweetness are a staple for any visitor to this cafe.</string>
+    <string name="sticky_beaks_description">As an independent cafe, Stickybeaks has got a reputation in the city for providing delicious, picture-perfect food that looks as if it has jumped right out of a recipe book.</string>
+    <string name="don_pasquale_description">As one of the city’s most admired and long standing establishments, many say it’s the best Italian restaurantEvent in town. Family-run, the food quality here is always impeccable.</string>
+    <string name="seven_days_description">For those who enjoy authetic chinese food, this is the place to be in Cambridge. </string>
+
+    <string name="arts_theatre_name">Cambridge Arts Theatre</string>
+    <string name="corn_exchange_name">Cambridge Corn Exchange</string>
+    <string name="leisure_park_name">Cambridge Leisure Park</string>
+    <string name="cambridge_junction_name">Cambridge Junction</string>
+    <string name="corpus_playroom_name">Corpus Christi Playroom</string>
+    <string name="adc_theatre_name">ADC Theatre</string>
+    <string name="arts_theatre_description">Cambridge Arts Theatre is one of the region\’s liveliest and most exciting venues, hosting a varied programme of drama, dance, music, comedy and pantomime, as well as many shows prior to and direct from the West End.</string>
+    <string name="corn_exchange_description">Run by Cambridge City Council, the Cambridge Corn Exchange presents up to 300 performances per year ranging from the hottest names from the rock and pop world as well as musicals, comedy, opera, ballet orchestral concerts and an annual Christmas show.</string>
+    <string name="leisure_park_description">Cambridge Leisure on the corner on Cherry Hinton Road and Hills Road in Cambridge is home to a 9 screen The Light Cinema, 28 lane Tenpin bowling, gym, cafe, wide range of restaurants and bars.</string>
+    <string name="cambridge_junction_description">Presenting 100\’s of performances each year to over 100 000 customers, Cambridge Junction coAvers theatre, comedy, dance, live music, clubs and events for young people.</string>
+    <string name="corpus_playroom_description">The Playroom is owned by Corpus Christi College, and managed by the University of Cambridge through the ADC Theatre. The College drama society, the Fletcher Players, are the resident company.</string>
+    <string name="adc_theatre_dexcription">The ADC Theatre is the centre of University drama in Cambridge, and is the home of the Cambridge Footlights, and the Cambridge University Amateur Dramatic Club.</string>
+
+    <string name="open_cambridge_name">"Open Cambridge"</string>
+    <string name="science_festival_name">"Cambridge Science Festival"</string>
+    <string name="festival_of_ideas_name">"Cambridge Festival of Ideas"</string>
+    <string name="twilight_museums_name">"Twilight at the Museums"</string>
+    <string name="summer_museums_name">"Summer at the Museums"</string>
+    <string name="open_cambridge_description">Open Cambridge is an annual weekend in September, during which Cambridge throws open its doors so that local people can enjoy and walk through its beautiful gardens and historic buildings.  It is a unique opportunity to celebrate Cambridge\’s history, discover its architectural treasures, and enjoy a wide range of tours, talks and exhibitions highlighting aspects of the City\’s history and cultural offerings.</string>
+    <string name="science_festival_description">The Science Festival provides the public with opportunities to explore and discuss issues of scientific interest and concern and to raise aspirations by encouraging young people to consider a career in science, technology, engineering or mathematics. Each year, the Festival welcomes visitors to hundreds of events and receives extensive national and local media coverage.</string>
+    <string name="festival_of_ideas_description">With hundreds of free events over two weeks exploring the theme of Movement, the Cambridge Festival of Ideas is one of the most exciting and dynamic occasions in the Cambridge cultural calendar. The Festival includes debates, workshops, talks, exhibitions, and performances, celebrating the arts, humanities, and social sciences.</string>
+    <string name="twilight_at_the_museums_description">Every February, as darkness falls, museums and collections across the City open their doors for an exciting evening of FREE family exploration and adventure – all part of Twilight at the Museums, organised by the University of Cambridge Museums.</string>
+    <string name="summer_at_the_museums_description">Every summer, the University of Cambridge Museums, Botanic Garden and local venues across the County, present a jam-packed programme of drop-in and bookable activities, events and trails; all part of the annual Summer at the Museums line-up. Whether it’s something to do on a rainy afternoon, a day out close to home, or a bit of hands-on creativity, there are loads of activities and events for you to choose from.</string>
+
+    <string name="tab0">Heritage</string>
+    <string name="tab1">Eat</string>
+    <string name="tab2">Events</string>
+    <string name="tab3">Entertain</string>
+</resources>
